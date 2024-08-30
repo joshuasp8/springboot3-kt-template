@@ -1,6 +1,7 @@
-# Preconfigured Demo App Template
+# Preconfigured Demo Spring Boot App Template
 
-Empty Kotlin JVM App
+Demo Spring Boot Kotlin JVM App.<br/>
+Uses GraalVM plugin to also create native images.
 
 ## Stack
 - Spring Boot 3
